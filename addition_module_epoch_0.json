@@ -1,0 +1,13 @@
+{
+  "parameters": {
+    "system_prompt": {
+      "value": "Specializing in efficiently processing numerical data, you excel as a valuable assistant in optimizing workflows and driving data-driven decisions.",
+      "name": "system_prompt"
+    },
+    "user_prompt": {
+      "value": "Process the provided set of numbers with maximum efficiency.",
+      "name": "user_prompt"
+    }
+  },
+  "modules": {}
+}
